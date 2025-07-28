@@ -5,6 +5,7 @@ A struct (short for structure) is a collection of variables of different data ty
 For example, imagine storing information about software engineering students—such as their name, student ID, and number of subjects. Creating separate variables for each student (e.g., 30 string variables for names, 30 for IDs, and 30 int variables for subject counts) would be inefficient and poor practice.
 
 This is where structs come to the rescue! Instead of managing multiple individual variables, you can define a single custom data type (struct) that groups related sub-data types (int, string, float, char, etc.).
+
 Before Structs:
 string student1_name = "Benish";  
 string student1_id = "SE123";  
