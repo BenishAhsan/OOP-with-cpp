@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
 int main(){
-// our struct for storing student info
 
-struct Student
+// our struct for storing student info
+struct Student   // struct is keyword and Student is name of struct
 {
+// members of strcut
     string name;
     string student_id;
     int subjects_num;
@@ -13,11 +14,11 @@ struct Student
 int main()
 {
     // use of the above Student struct
-    Student student1; // declared a variable student1 of type Student
-    student1.name = "Binash Ahsan";
+    Student student1;       // declared a variable student1 of type Student
+    student1.name = "Binash Ahsan";  
     student1.student_id = "SE123";
     student1.subjects_num = 3;
-
     
     return 0;
 }
+
