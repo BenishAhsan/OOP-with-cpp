@@ -33,7 +33,7 @@ struct Student {
 Now, Student acts like a user-defined data type, combining multiple sub-data types into one organized unit.
 
 ### Visual Representation
-![Struct Diagram](assets/student_struct.png)
+![Struct Diagram](Structs/assests/student_struct.png)
 
 
 ### Use of Structs:
