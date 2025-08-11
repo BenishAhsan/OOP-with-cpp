@@ -1,5 +1,4 @@
 # Structs
-
 ## 🧠 What is a Struct?
 
 A struct (short for structure) is a collection of variables of different data types. In fundamental programming, you’ve learned about basic variables like int for numbers and string for text. But what if you need to store related data as a single unit?
@@ -9,7 +8,9 @@ For example, imagine storing information about software engineering students—s
 This is where structs come to the rescue! Instead of managing multiple individual variables, you can define a single custom data type (struct) that groups related sub-data types (int, string, float, char, etc.)
 
 ---
+
 ## Before Structs:
+
 string student1_name = "Benish";  
 string student1_id = "SE123";  
 int student1_sub_no = 4;  
@@ -23,7 +24,9 @@ int student2_sub_no = 5;
 .
 
 last student variables
+
 ---
+
 ## After Using Structs:
  ```cpp
  // a blueprint for all students
@@ -41,5 +44,9 @@ Now, Student acts like a user-defined data type, combining multiple sub-data typ
 <img src="assests/student_struct.png" alt="Struct Diagram" width="500"/>
 
 ## Use of Structs:
+
 For practical implementation, please check the .cpp file in the current folder.
+
+---
+> "Happy Learning 😊"
 
