@@ -9,7 +9,6 @@ For example, imagine storing information about software engineering students—s
 This is where structs come to the rescue! Instead of managing multiple individual variables, you can define a single custom data type (struct) that groups related sub-data types (int, string, float, char, etc.)
 
 ---
-
 ## Before Structs:
 string student1_name = "Benish";  
 string student1_id = "SE123";  
@@ -24,7 +23,7 @@ int student2_sub_no = 5;
 .
 
 last student variables
-
+---
 ## After Using Structs:
  ```cpp
  // a blueprint for all students
