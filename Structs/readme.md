@@ -10,7 +10,7 @@ This is where structs come to the rescue! Instead of managing multiple individua
 
 ---
 
-### Before Structs:
+## Before Structs:
 string student1_name = "Benish";  
 string student1_id = "SE123";  
 int student1_sub_no = 4;  
@@ -25,7 +25,7 @@ int student2_sub_no = 5;
 
 last student variables
 
-### After Using Structs:
+## After Using Structs:
  ```cpp
  // a blueprint for all students
 struct Student {  
@@ -38,9 +38,9 @@ Now, Student acts like a user-defined data type, combining multiple sub-data typ
 
 ---
 
-### Visual Representation
+## Visual Representation
 <img src="assests/student_struct.png" alt="Struct Diagram" width="500"/>
 
-### Use of Structs:
+## Use of Structs:
 For practical implementation, please check the .cpp file in the current folder.
 
