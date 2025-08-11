@@ -33,8 +33,8 @@ struct Student {
 Now, Student acts like a user-defined data type, combining multiple sub-data types into one organized unit.
 
 ### Visual Representation
-<img src="Structs/assests/student_struct.png" alt="Struct Diagram" width="400"/>
- 
+<img src="assests/student_struct.png" alt="Struct Diagram" width="400"/>
+
 ### Use of Structs:
 For practical implementation, please check the .cpp file in the current folder.
 
