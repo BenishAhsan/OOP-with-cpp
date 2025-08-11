@@ -16,9 +16,11 @@ int student1_sub_no = 4;
 string student2_name = "Ahsan";  
 string student2_id = "SE124";  
 int student2_sub_no = 5;
+
 .
 .
 .
+
 last student variables
 
 ### After Using Structs:
