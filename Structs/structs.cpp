@@ -11,6 +11,12 @@ struct Student   // struct is keyword and Student is name of struct
     int subjects_num;
 };
 
+// Real life example
+struct Book{
+
+}
+
+
 int main()
 {
     // use of the above Student struct
@@ -18,7 +24,13 @@ int main()
     student1.name = "Binash Ahsan";  
     student1.student_id = "SE123";
     student1.subjects_num = 3;
-    
+
+    //print info on screen
+    cout<< "Student name: "<< student1.name <<endl;
+    cout<< "ID: "<< student1.student_id << endl;
+    cout<< "# of Subjects: " student1.subjects_num << endl;
+
     return 0;
 }
+
 
